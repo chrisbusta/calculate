@@ -1,0 +1,15 @@
+body {
+  background-color: blue;
+  margin: 5px;
+  text-align: center;
+  font-size: 4.8em;
+  font-family: 'Pacifico', cursive;
+
+}
+
+input {
+  width: 50%;
+  height: 30px;
+}
+
+
